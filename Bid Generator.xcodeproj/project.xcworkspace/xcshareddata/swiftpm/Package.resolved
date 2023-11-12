@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "animatenumbertext",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swift-man/AnimateNumberText.git",
+      "state" : {
+        "revision" : "85ee57666dc0eb7b89a7591175ceca1d8e45ecbc",
+        "version" : "0.5.0"
+      }
+    }
+  ],
+  "version" : 2
+}
