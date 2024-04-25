@@ -8,8 +8,4 @@ iOS - SwiftUI
 
 ## Author
 
-* **Hamza Amin** - *Initial work* - [PurpleBooth](https://hamzabinamin.github.io/)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* **Hamza Amin** - [Portfolio](https://hamzabinamin.github.io/)
